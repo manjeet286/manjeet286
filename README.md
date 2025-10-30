@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manjeet Prajapati!
+# 👋 Hi there, I'm Manjeet Prajapati! Currently pursuing Electrical Engineering from DTU
 
 🚀 **Full Stack Developer | Open Source Enthusiast | Mental Health Advocate**
 
